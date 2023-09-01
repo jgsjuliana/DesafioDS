@@ -1,4 +1,4 @@
-### Contexto do projeto
+## Contexto do projeto
 
 Este repositório apresenta a exploração dos dados e aplicação de um modelo de predição, para identificar valores ausentes de GDP growth (Gross Domestic Product) e predição dos valores para os anos de 2024 a 2028, do projeto Certificação Data Science pela Indicium. 
 

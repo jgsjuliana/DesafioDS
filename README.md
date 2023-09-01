@@ -6,7 +6,7 @@ Este repositório apresenta a exploração dos dados e aplicação de um modelo 
 
 ### Clonando o projeto
 Primeiramente, é necessário clonar o repositório localmente. O projeto pode ser clonado via SSH ou HTTPS utilizando-se o comando `git clone` no link.
-- `https://github.com/jgsjuliana/COLOCARCAMINHOAQUIIIIII.git`
+- `https://github.com/jgsjuliana/DesafioDS.git`
 
 ### Criando um ambiente virtual
 Será necessária a criação de um ambiente virtual na pasta home do projeto.
